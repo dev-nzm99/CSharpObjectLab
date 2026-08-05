@@ -1,0 +1,16 @@
+#Build Output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+#log
+.log
+
+#environment file
+.env
+
