@@ -68,8 +68,8 @@ public class Student
         get => totalStudents;
         set
         {
-            if(totalStudents > 0)
-            totalStudents = value;
+            if (totalStudents > 0)
+                totalStudents = value;
         }
     }
 
@@ -90,8 +90,8 @@ public class Student
         if (marks >= 80) return "A+";
         if (marks >= 70) return "A";
         if (marks >= 60) return "B";
-        if( marks >= 50) return "C";
-        if( marks >= 40) return "D";
+        if (marks >= 50) return "C";
+        if (marks >= 40) return "D";
         return "F";
     }
 
@@ -105,5 +105,4 @@ public class Student
         Console.WriteLine($"Grade: {GetGrade()}");
     }
 }
-    
- 
+
