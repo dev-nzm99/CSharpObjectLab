@@ -8,7 +8,7 @@ namespace EmployeeManagementSystem
         public decimal MonthlySalary { get; set; }
         public List<Employee> TeamMembers { get; private set; }
 
-        public Manager(string name, string id, string department, decimal monthlySalary) : base(Guid.NewGuid(), name, department)
+        public Manager(string name, string department, decimal monthlySalary) : base(Guid.NewGuid(), name, department)
         {
             if (monthlySalary <= 0)
                 throw new ArgumentException("Monthly salary must be positive.");
@@ -57,7 +57,7 @@ namespace EmployeeManagementSystem
 
         public override string GetDetails()
         {
-            return base.GetDetails() + $"(Manager, team size: {TeamMembers.Count})"
+            return base.GetDetails() + $"(Manager, team size: {TeamMembers.Count})";
         }
     }
 }

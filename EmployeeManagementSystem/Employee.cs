@@ -9,8 +9,6 @@
         public static int TotalEmployees { get; private set; } = 0;
         public Employee(Guid id, string name, string department)
         {
-            if (string.IsNullOrWhiteSpace(id))
-                throw new ArgumentNullException("Id cannot be empty!");
             if (string.IsNullOrWhiteSpace(name))
                 throw new ArgumentNullException("Name cannot be empty.");
             if (string.IsNullOrWhiteSpace(department))
