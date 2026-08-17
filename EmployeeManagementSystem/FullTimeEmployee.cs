@@ -19,7 +19,7 @@ namespace EmployeeManagementSystem
         }
         public override string GetDetails()
         {
-            return base.GetDetails() + " Part-Time";
+            return base.GetDetails() + " Full-Time";
         }
     }
 }

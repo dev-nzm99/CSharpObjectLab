@@ -14,7 +14,7 @@ namespace EmployeeManagementSystem
 
         public void AddEmployee(Employee e)
         {
-            if (Employees.Exists(x => x.Id == e.Id){
+            if (Employees.Exists(x => x.Id == e.Id)){
                 Console.WriteLine("An employee with this id is already exists.");
                 return;
             }
@@ -93,6 +93,5 @@ namespace EmployeeManagementSystem
             }
             return;
         }
-
     }
 }

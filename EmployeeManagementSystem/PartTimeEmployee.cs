@@ -19,5 +19,9 @@ namespace EmployeeManagementSystem
         {
             return HourlyRate * HoursWorked;
         }
+        public override string GetDetails()
+        {
+            return base.GetDetails() + " Part-Time";
+        }
     }
 }
