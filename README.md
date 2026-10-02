@@ -137,38 +137,6 @@ SOLID Principles
 
 ---
 
-## ✅ Progress Tracker
-
-Copy this table into your own notes or fork and tick off chapters as you finish them.
-
-| # | Topic | Status |
-|---:|---|:---:|
-| 01 | OOP Introduction | ⬜ |
-| 02 | Classes | ⬜ |
-| 03 | Objects | ⬜ |
-| 04 | Fields | ⬜ |
-| 05 | Properties | ⬜ |
-| 06 | Methods | ⬜ |
-| 07 | Constructors | ⬜ |
-| 08 | Encapsulation | ⬜ |
-| 09 | Inheritance | ⬜ |
-| 10 | Polymorphism | ⬜ |
-| 11 | Abstraction | ⬜ |
-| 12 | Interfaces | ⬜ |
-| 13 | Static Members | ⬜ |
-| 14 | Sealed Members | ⬜ |
-| 15 | Abstract Class vs Interface | ⬜ |
-| 16 | Access Modifiers | ⬜ |
-| 17 | `this` Keyword | ⬜ |
-| 18 | `base` Keyword | ⬜ |
-| 19 | `System.Object` | ⬜ |
-| 20 | Boxing & Unboxing | ⬜ |
-| 21 | Type Casting | ⬜ |
-| 22 | Record vs Class | ⬜ |
-| 23 | Garbage Collection | ⬜ |
-| 24 | SOLID Principles | ⬜ |
-
----
 
 ## 📖 Recommended Study Order
 
