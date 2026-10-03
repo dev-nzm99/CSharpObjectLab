@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 C# Object-Oriented Programming Handbook
+# C# Object-Oriented Programming Handbook
 
 **A structured C# OOP learning repository from fundamentals to advanced object-oriented design.**
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 About
+## About
 
 This repository is a **chapter-by-chapter guide to Object-Oriented Programming in modern C#**.
 This page is a navigation hub only. Every lesson, diagram, interview question and exercise lives inside its own chapter folder.
@@ -31,36 +31,6 @@ This page is a navigation hub only. Every lesson, diagram, interview question an
 - [Type Design](#-module-03--oop-type-design)
 - [Object Model](#-module-04--net-object-model)
 - [SOLID](#-module-05--object-oriented-design)
-
----
-
-## 🧭 Learning Roadmap
-
-```text
-OOP Introduction
-      ↓
-Classes & Objects
-      ↓
-Fields / Properties / Methods
-      ↓
-Constructors
-      ↓
-Encapsulation
-      ↓
-Inheritance
-      ↓
-Polymorphism
-      ↓
-Abstraction
-      ↓
-Interfaces
-      ↓
-Advanced Type Design
-      ↓
-.NET Object Model
-      ↓
-SOLID Principles
-```
 
 ---
 
@@ -137,38 +107,6 @@ SOLID Principles
 
 ---
 
-## ✅ Progress Tracker
-
-Copy this table into your own notes or fork and tick off chapters as you finish them.
-
-| # | Topic | Status |
-|---:|---|:---:|
-| 01 | OOP Introduction | ⬜ |
-| 02 | Classes | ⬜ |
-| 03 | Objects | ⬜ |
-| 04 | Fields | ⬜ |
-| 05 | Properties | ⬜ |
-| 06 | Methods | ⬜ |
-| 07 | Constructors | ⬜ |
-| 08 | Encapsulation | ⬜ |
-| 09 | Inheritance | ⬜ |
-| 10 | Polymorphism | ⬜ |
-| 11 | Abstraction | ⬜ |
-| 12 | Interfaces | ⬜ |
-| 13 | Static Members | ⬜ |
-| 14 | Sealed Members | ⬜ |
-| 15 | Abstract Class vs Interface | ⬜ |
-| 16 | Access Modifiers | ⬜ |
-| 17 | `this` Keyword | ⬜ |
-| 18 | `base` Keyword | ⬜ |
-| 19 | `System.Object` | ⬜ |
-| 20 | Boxing & Unboxing | ⬜ |
-| 21 | Type Casting | ⬜ |
-| 22 | Record vs Class | ⬜ |
-| 23 | Garbage Collection | ⬜ |
-| 24 | SOLID Principles | ⬜ |
-
----
 
 ## 📖 Recommended Study Order
 
