@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 C# Object-Oriented Programming Handbook
+# C# Object-Oriented Programming Handbook
 
 **A structured C# OOP learning repository from fundamentals to advanced object-oriented design.**
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 📌 About
+## About
 
 This repository is a **chapter-by-chapter guide to Object-Oriented Programming in modern C#**.
 This page is a navigation hub only. Every lesson, diagram, interview question and exercise lives inside its own chapter folder.
@@ -31,36 +31,6 @@ This page is a navigation hub only. Every lesson, diagram, interview question an
 - [Type Design](#-module-03--oop-type-design)
 - [Object Model](#-module-04--net-object-model)
 - [SOLID](#-module-05--object-oriented-design)
-
----
-
-## 🧭 Learning Roadmap
-
-```text
-OOP Introduction
-      ↓
-Classes & Objects
-      ↓
-Fields / Properties / Methods
-      ↓
-Constructors
-      ↓
-Encapsulation
-      ↓
-Inheritance
-      ↓
-Polymorphism
-      ↓
-Abstraction
-      ↓
-Interfaces
-      ↓
-Advanced Type Design
-      ↓
-.NET Object Model
-      ↓
-SOLID Principles
-```
 
 ---
 
